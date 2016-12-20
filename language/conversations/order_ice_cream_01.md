@@ -10,7 +10,7 @@ I'd like to buy some icecream
 * prompt_ice_cream_type/flavour
 
 [Chocolate](flavour)
-* answer_ice_cream_type/flavour
+* order_icecream/flavour
 
-It would be [5.50](currency/price) euros
+It would be [5](price) euros
 * tell_ice_cream_price
